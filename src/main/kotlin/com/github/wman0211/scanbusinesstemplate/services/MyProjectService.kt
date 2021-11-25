@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.wman0211.scanbusinesstemplate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wman0211.scanbusinesstemplate.MyBundle
 
 class MyProjectService(project: Project) {
 

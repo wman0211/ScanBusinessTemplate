@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.wman0211.scanbusinesstemplate
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
